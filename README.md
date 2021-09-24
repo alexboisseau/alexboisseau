@@ -9,3 +9,5 @@ Here are some ideas to get you started:
 - 💖 I love JS and cryptocurrency ecosystems
 - 🔭 I’m currently working on my personal website
 - 🌱 I’m currently learning Django framework
+
+#### My project are juste here 👇
