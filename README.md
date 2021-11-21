@@ -1,4 +1,4 @@
-### Hi there, my name is Alex Boisseau and I'm a French FullStack Developer 👋
+### Hi there, my name is Alex Boisseau and I'm a French Developer 👋
 
 <!--
 **alexboisseau/alexboisseau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
