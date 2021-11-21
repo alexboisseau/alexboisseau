@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 - 📍 I'm from Niort (France) and I'm studing at Bordeaux (YNOV CAMPUS)
 - 💖 I love JS and cryptocurrency ecosystems
-- 🔭 I’m currently working on my personal website
-- 🌱 I’m currently learning Django framework
+- 🍏 I’m currently learning about iOS development
 
 #### My project are juste here 👇
