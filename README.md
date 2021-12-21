@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🧪 Actualy Learning about iOS development (HackingWithSwiftUI) and about NestJS technology
 - 🏃‍♂️ I practice sport since I'm a little boy 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=alexboisseau&count_private=true&show_icons=true" width="380">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alexboisseau&show_icons=true&locale=en&layout=compact" />
 
 #### My project are juste here 👇
