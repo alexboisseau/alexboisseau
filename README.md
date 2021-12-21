@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:
 -->
-- 📍 I'm from Niort (France) and I'm studing at Bordeaux (YNOV CAMPUS)
+- 📍  I'm from Niort (France)
+- 📚 Fourth year of higher eduction in BORDEAUX YNOV CAMPUS (France) to become a expert in web development (but I also like mobile development 😵)
 - 💖 I love JS and cryptocurrency ecosystems
-- 🍏 Learning about iOS development (HackingWithSwiftUI)
+- 🧪 Actualy Learning about iOS development (HackingWithSwiftUI) and about NestJS technology
+- 🏃‍♂️ I practice sport since I'm a little boy 
 
 #### My project are juste here 👇
