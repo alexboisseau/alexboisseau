@@ -1,6 +1,6 @@
 ### Hi there, my name is Alex, welcome on my GitHub profile 👋
 
-#### Who am I ?
+### Who am I ?
 
 My name is Alex, and I'm from France. I ventured into software engineering in 2018 during my higher education.
 I have been studying and working in this domain for more than 5 years through personal projects and also for several companies:
