@@ -9,7 +9,7 @@ I have been studying and working in this domain for more than 5 years through pe
 - 🇫🇷 Fridaa, FinTech, 2022 August - 2023 July (Work-Study)
 - 🇸🇬 Request Finance, DeFi Web 3.0, 2023 July - 2023 September (Intership)
 
-What do I love in addition to IT :
+What I love in addition to IT :
 - Running and soccer 🏃
 - Spend time with my friends and my family 🍻
 - Reading 📚
